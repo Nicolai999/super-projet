@@ -1,6 +1,6 @@
-### super-projet
+# super-projet
 
-"Projet collaboratif"
+## "Projet collaboratif"
 
-# a faire : ajouter un fichier '.blabla'
+A faire : ajouter un fichier '.blabla'
 
